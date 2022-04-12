@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactSortingWithTableData/static/css/main.fd387723.css",
+    "main.js": "/ReactSortingWithTableData/static/js/main.627c929e.js",
+    "static/js/787.f28487c3.chunk.js": "/ReactSortingWithTableData/static/js/787.f28487c3.chunk.js",
+    "index.html": "/ReactSortingWithTableData/index.html",
+    "main.fd387723.css.map": "/ReactSortingWithTableData/static/css/main.fd387723.css.map",
+    "main.627c929e.js.map": "/ReactSortingWithTableData/static/js/main.627c929e.js.map",
+    "787.f28487c3.chunk.js.map": "/ReactSortingWithTableData/static/js/787.f28487c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd387723.css",
+    "static/js/main.627c929e.js"
+  ]
+}
